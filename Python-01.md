@@ -14,13 +14,10 @@
 
 ------
 
-------
-
 **목차 ) 파이썬 개발 환경 > 기초 문법 > 자료형 > 컨테이너**
 
 ------
 
-------
 
 #### 📂 PYTHON이란? `easy to learn`
 
@@ -159,7 +156,7 @@ s + 'is fun' #Python is fun
 
 ### 5. 파이썬 기본 자료형 python datatype
 
-![image-20220711164905216](/Users/yuyeong/Desktop/Python/Python-01.assets/image-20220711164905216.png)
+![image-20220711164905216](https://user-images.githubusercontent.com/108647801/178261187-492f7739-eaac-4b96-8b64-47f6c129f140.png)
 
 
 
@@ -225,8 +222,7 @@ s + 'is fun' #Python is fun
 ------
 
 **✔ 산술 연산자 (Arithmetic Operator)**
-
-![image-20220711191720505](/Users/yuyeong/Desktop/Python/Python-01.assets/image-20220711191720505-7540350.png)
+![image-20220711191720505](https://user-images.githubusercontent.com/108647801/178261196-f06ea5ea-73fc-4b77-8e5c-e07c3858deae.png)
 
 👉 나머지(%)는 짝수인지, 홀수인지 확인 하기 위해 많이 사용한다.
 
@@ -235,14 +231,13 @@ s + 'is fun' #Python is fun
 **✔ 복합 연산자 (In-place Operator)**
 
 `연산과 할당이 함께 이뤄진다.`
-
-![image-20220711191737585](/Users/yuyeong/Desktop/Python/Python-01.assets/image-20220711191737585.png)
+![image-20220711191737585](https://user-images.githubusercontent.com/108647801/178261205-07a2d429-0be6-472c-b881-905feecc6a55.png)
 
 ✔ 비교 연산자 (Comparison Operator)
 
 `값을 비교하여 참과 거짓 값을 return 한다.`
 
-![image-20220711191756302](/Users/yuyeong/Desktop/Python/Python-01.assets/image-20220711191756302.png)
+![image-20220711191756302](https://user-images.githubusercontent.com/108647801/178261206-1f21b84b-c3a5-4a5c-bf28-6fbe0aafb7be.png)
 
 ------
 
@@ -356,7 +351,7 @@ print(fruit[1]) #b
 
 - 생성과 접근
 
-  ![image-20220711192117392](/Users/yuyeong/Desktop/Python/Python-01.assets/image-20220711192117392.png)
+![image-20220711192117392](https://user-images.githubusercontent.com/108647801/178261216-cdf65eaf-c968-469e-b88c-866ec1baa790.png)
 
 - 리스트 list 예제
 
