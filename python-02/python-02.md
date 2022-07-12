@@ -28,7 +28,7 @@ else:
 
 - 아래의 순서도를 코드로 나타내세요
 
-  ![스크린샷 2022-07-12 오전 9.21.26](/Users/yuyeong/Desktop/Python/python-02.assets/스크린샷 2022-07-12 오전 9.21.26.png)
+  <img width="347" alt="스크린샷 2022-07-12 오전 9 21 26" src="https://user-images.githubusercontent.com/108647801/178440639-4ab5b31c-8fe7-4873-b60a-17c79da8e3b5.png">
 
 ```python
 a = 10
